@@ -1,6 +1,6 @@
 # Simple React app that filter users
 
-> you play with it @ **https://github.com/RicardoGEsteves/search-profiles**.
+> you can play with it @ **https://github.com/RicardoGEsteves/search-profiles**.
 
 ---
 
