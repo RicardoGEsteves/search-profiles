@@ -1,0 +1,12 @@
+.app {
+  background-color: #29303b;
+  text-align: center;
+
+  & h1 {
+    padding: 30px;
+    font-family: 'Bangers', cursive;
+    font-size: 3rem;
+    letter-spacing: 0.3rem;
+    color: #95dada;
+  }
+}
