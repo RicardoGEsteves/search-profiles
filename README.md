@@ -1,3 +1,9 @@
+# Simple React app that filter users
+
+> you play with it @ **https://github.com/RicardoGEsteves/search-profiles**.
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
